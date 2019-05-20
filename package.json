@@ -1,0 +1,29 @@
+{
+  "name": "hackaton-here-vanillajs",
+  "version": "1.0.0",
+  "description": "Proyecto movilidas sustentable Here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GloriaMoraga/Hackaton-Here-VanillaJs.git"
+  },
+  "keywords": [
+    "Mapas",
+    "Map",
+    "Here"
+  ],
+  "author": "Gloria Moraga , Milexys Ferrer , Paulina Contreras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GloriaMoraga/Hackaton-Here-VanillaJs/issues"
+  },
+  "homepage": "https://github.com/GloriaMoraga/Hackaton-Here-VanillaJs#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
